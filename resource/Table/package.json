@@ -1,0 +1,17 @@
+{
+  "name": "scrolltable",
+  "version": "1.0.0",
+  "description": "OpenDataV滚动表格",
+  "main": "ScrollTable/index.ts",
+  "private": true,
+  "scripts": {},
+  "keywords": [
+    "OpenDataV"
+  ],
+  "author": "xingxingzaixian",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@open-data-v/base":"workspace:*",
+    "@open-data-v/ui":"workspace:*"
+  }
+}

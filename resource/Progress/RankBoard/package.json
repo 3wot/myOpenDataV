@@ -1,0 +1,17 @@
+{
+  "name": "scrollrank",
+  "version": "1.0.0",
+  "description": "排名板",
+  "main": "index.ts",
+  "private": true,
+  "scripts": {},
+  "keywords": [
+    "OpenDataV"
+  ],
+  "author": "chenghaiwen",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@open-data-v/base":"workspace:*"
+  },
+  "devDependencies": {}
+}

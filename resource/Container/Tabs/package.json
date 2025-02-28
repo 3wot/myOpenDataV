@@ -1,0 +1,18 @@
+{
+  "name": "tabs",
+  "version": "1.0.0",
+  "description": "Tabs组件",
+  "main": "index.js",
+  "private":true,
+  "scripts": {
+  },
+  "keywords": [
+    "OpenDataV"
+  ],
+  "author": "chenghaiwen",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@open-data-v/base":"workspace:*",
+    "@open-data-v/designer":"workspace:*"
+  }
+}
